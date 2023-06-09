@@ -6,6 +6,8 @@ CosmWasm-Examples is a collection of example contracts and applications built us
 
 This repository serves as a valuable resource for developers looking to understand and explore the capabilities of CosmWasm. It offers a wide range of example contracts, showcasing various functionalities and use cases, including token contracts, staking contracts, governance contracts, and more.
 
+**Disclaimer: Please note that the example contracts provided in this repository are intended for testing and educational purposes only. They have not undergone a comprehensive security audit and should not be used in production environments without proper review and assessment.**
+
 ## Features
 
 - **Comprehensive Examples**: CosmWasm-Examples provides a diverse set of example contracts that cover different aspects of smart contract development with CosmWasm. Each example comes with detailed documentation and code explanations, making it easy for developers to learn and adapt.
