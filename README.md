@@ -42,7 +42,7 @@ Please refer to the [Contribution Guidelines](https://github.com/tvcapital/CosmW
 
 - [CosmWasm Documentation](https://www.cosmwasm.com/docs/)
 - [Cosmos Network](https://cosmos.network/)
-- [Cosmos Kit] (https://cosmoskit.com/)
+- [Cosmos Kit](https://cosmoskit.com/)
 
 Join the growing community of CosmWasm developers and start building secure and scalable smart contracts on the Cosmos network today!
 
