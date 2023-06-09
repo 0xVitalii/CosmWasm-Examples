@@ -46,6 +46,6 @@ Please refer to the [Contribution Guidelines](https://github.com/tvcapital/CosmW
 
 Join the growing community of CosmWasm developers and start building secure and scalable smart contracts on the Cosmos network today!
 
-![CosmWasm Logo](https://github.com/CosmWasm/cosmwasm/raw/main/logo.png)
+![CosmWasm Logo](https://github.com/tvcapital/CosmWasm-Examples/raw/main/logo.png)
 
 
