@@ -1,5 +1,3 @@
-Certainly! Here's an example content for the CONTRIBUTING.md file:
-
 # Contributing to CosmWasm-Examples
 
 Thank you for your interest in contributing to CosmWasm-Examples! We appreciate your support in making this repository a valuable resource for the CosmWasm community. Here are some guidelines to help you get started:
@@ -11,7 +9,7 @@ Thank you for your interest in contributing to CosmWasm-Examples! We appreciate 
 2. Clone the forked repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/CosmWasm-Examples.git
+   git clone https://github.com/tvcapital/CosmWasm-Examples.git
    ```
 
 3. Create a new branch for your contribution:
