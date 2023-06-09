@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "QueryMsg",
+  "oneOf": [
+    {
+      "description": "Returns a human-readable representation of the arbiter.",
+      "type": "object",
+      "required": [
+        "arbiter"
+      ],
+      "properties": {
+        "arbiter": {
+          "type": "object"
+        }
+      },
+      "additionalProperties": false
+    }
+  ]
+}
