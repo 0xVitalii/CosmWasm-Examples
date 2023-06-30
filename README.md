@@ -30,11 +30,11 @@ We welcome contributions to CosmWasm-Examples! If you have an interesting contra
 
 Here are a few ways you can contribute:
 
+- **Documentation**: Help improve the documentation by fixing typos, clarifying instructions, or adding missing information. Clear and concise documentation is crucial for developers to understand and utilize the examples effectively.
+
 - **Add New Examples**: Have an innovative contract or application built on CosmWasm? Share it with the community by adding a new example to the repository. Provide clear documentation and code explanations to help others understand and learn from your work.
 
 - **Improve Existing Examples**: If you come across an example that can be enhanced or optimized, feel free to make improvements. Submitting pull requests with code refinements, bug fixes, or additional features can greatly benefit fellow developers.
-
-- **Documentation**: Help improve the documentation by fixing typos, clarifying instructions, or adding missing information. Clear and concise documentation is crucial for developers to understand and utilize the examples effectively.
 
 - **Issue Reporting**: If you encounter any issues or have suggestions for improvements, please open an issue in the repository. Be sure to provide a detailed description, including steps to reproduce the problem if applicable.
 
