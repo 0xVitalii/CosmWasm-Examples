@@ -12,9 +12,9 @@ This repository serves as a valuable resource for developers looking to understa
 
 - **Comprehensive Examples**: CosmWasm-Examples provides a diverse set of example contracts that cover different aspects of smart contract development with CosmWasm. Each example comes with detailed documentation and code explanations, making it easy for developers to learn and adapt.
 
-- **Real-World Use Cases**: The repository includes contracts that address real-world use cases, enabling developers to see how CosmWasm can be applied in practical scenarios. From token issuance and management to decentralized governance, these examples provide insights into building secure and robust applications on the Cosmos network.
-
 - **Community-Driven**: CosmWasm-Examples is maintained by a supportive community of developers. Contributions and feedback are encouraged, ensuring that the repository remains up to date and reflects the best practices and advancements in CosmWasm development.
+
+- **Real-World Use Cases**: The repository includes contracts that address real-world use cases, enabling developers to see how CosmWasm can be applied in practical scenarios. From token issuance and management to decentralized governance, these examples provide insights into building secure and robust applications on the Cosmos network.
 
 ## Getting Started
 
@@ -47,6 +47,7 @@ Please refer to the [Contribution Guidelines](https://github.com/tvcapital/CosmW
 - [Cosmos Kit](https://cosmoskit.com/)
 
 Join the growing community of CosmWasm developers and start building secure and scalable smart contracts on the Cosmos network today!
+
 
 ![CosmWasm Logo](https://github.com/tvcapital/CosmWasm-Examples/raw/main/logo.png)
 
